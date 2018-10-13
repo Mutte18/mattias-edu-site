@@ -17,16 +17,18 @@
 
 </div>
 
-<div id class="menu">
-    <div id class="button">
-        <p>Home</p>
+<div class="menu">
+    <div class="button" href="localhost">
+        <a href="index.php">
+         <p>Home</p>
+        </a>
     </div>
 
-    <div id class="button">
+    <div class="button">
         <p>Games</p>
     </div>
 
-    <div id class="button">
+    <div class="button">
         <p>Write</p>
     </div>
 </div>
