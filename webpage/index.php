@@ -12,28 +12,89 @@
 <body>
 
 <div id class="header">
-    <h1>Jomen så att</h1>
+    <div class="logo">
+        <a href="../html-link.htm"><img src="wasn.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
+    </div>
 
+    <div class="loginfield">
+        <form>
+            <label>Username:</label>
+            <input type="text" name="username"><br>
+            <label>Password:</label>
+            <input type="password" name="password"><br>
+            <input type="submit" name="signin" value="Login">
+        </form>
+    </div>
+
+
+    <div class="navbar">
+    <ul>
+        <li><a class="active" href="index.php">Home</a></li>
+        <li><a href="index.php">Games</a></li>
+        <li><a href="index.php">Write</a></li>
+        <li><a href="index.php">Mystery button</a></li>
+
+
+    </ul>
+    </div>
 
 </div>
 
-<div class="menu">
-    <div class="button" href="localhost">
-        <a href="index.php">
-         <p>Home</p>
-        </a>
+<h2>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    v
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+    G <br/>
+
+
+</h2>
+
+<footer>
+    <div class="footer-top">
+        Top
+    </div>
+    <div class="footer-bottom">
+        Bottom
     </div>
 
-    <div class="button">
-        <p>Games</p>
-    </div>
-
-    <div class="button">
-        <p>Write</p>
-    </div>
-</div>
-
+</footer>
 </body>
+
 </html>
 
 
