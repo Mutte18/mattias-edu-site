@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Home</title>
+    <title>Games</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -13,7 +13,7 @@
 
 <div class="header">
     <div class="logo">
-        <a href="../html-link.htm"><img src="wasn.jpg" width="128" height="128" title="White flower" alt="Flower"></a>
+        <a href="../html-link.htm"><img src="wasn.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
     </div>
 
     <div class="title">
@@ -38,8 +38,8 @@
 
 <div class="navbar">
     <ul>
-        <li><a class="active" href="index.php">Home</a></li>
-        <li><a href="games.php">Games</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a class="active" href="games.php">Games</a></li>
         <li><a href="index.php">Write</a></li>
         <li><a href="index.php">Mystery button</a></li>
 
@@ -81,7 +81,3 @@
 </body>
 
 </html>
-
-
-
-
